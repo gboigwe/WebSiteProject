@@ -1,0 +1,360 @@
+html, body{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+.container{
+    margin: 0px;
+    padding: 0px 18%;
+    background-color:rgb(16, 16, 73);
+    height: 30px;
+    font-size: 10px;
+}
+.container1{
+    float: left;
+    margin-right:50%;
+    padding-top: 10px;
+    color: white;
+}
+.container2{
+    padding-top:10px;
+    color: white;
+}
+.rline{
+    padding: 6px 18%;
+/*    width: 100%;*/
+    height:65px;
+    font-size: 11px;
+}
+.line1{
+    padding: 6px;
+    float: left;
+    margin-right:10%;
+    width: 10px;
+    height:10px;
+}
+.pics{
+    width: 80px;
+    height:60px;
+}
+.line2{
+    padding-top:15px;
+    margin-right: 5%;
+    margin-left: 7%;
+}
+.line2 ul li{
+    margin-left: 30px;
+    list-style-type:none;
+    float: left;
+    padding-top:5px;
+}
+.line3{
+    margin-left: 14.5%;
+    border-radius: 10px;
+    color:white;
+    background-color: rgb(16, 16, 73);
+    font-size: 10px;
+    padding: 3px 12px;
+}
+.div-bg{
+    width: 100%;
+    height: 450px;
+    background: url('./../image_add/edu.jpg') no-repeat center center / cover;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.intro{
+    padding: 7% 18%;
+}
+.rintro{
+    padding: 5% 18%;
+/*    width: 64%;*/
+    height:450px;
+}
+.intro1{
+    margin-right:70px;
+    float: left;
+}
+.font_h{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(16, 16, 73);
+}
+.font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+    color: rgb(16, 16, 73);
+}
+.intro1 button{
+    border-radius: 10px;
+    color:white;
+    background-color:rgb(16, 16, 73);
+    font-size: 10px;
+    padding: 3px 12px;
+}
+.pic{
+    border-radius: 50% 50%;
+    box-shadow: 10px 10px 10px gainsboro;
+    width: 250px;
+    height: 250px;
+    margin-left: 70px;
+}
+.box1{
+    margin: 80px 70px 0px 0px;
+    padding: 10px;
+    border:0px;
+    border-left: 5px solid yellow;
+    height: 120px;
+    width: 200px;
+    box-shadow: 6px 6px 6px gainsboro;
+    background-color: white;
+}
+.box2{
+    margin: 80px 70px 0px 0px;
+    padding: 10px;
+    border:0px;
+    border-left: 5px solid yellow;
+    height: 120px;
+    width: 200px;
+    box-shadow: 6px 6px 6px gainsboro;
+    background-color: white;
+}
+.box3{
+    margin: 80px 10px 0px 0px;
+    padding: 10px;
+    border:0px;
+    border-left: 5px solid yellow;
+    height: 120px;
+    width: 200px;
+    box-shadow: 6px 6px 6px gainsboro;
+    background-color: white;
+}
+.box1 h4, .box2 h4, .box3 h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(16, 16, 73);
+}
+.box1, .box2, .box3 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+    color: rgb(16, 16, 73);
+}
+.course{
+/*    width: 64%;*/
+    height:500px;
+    padding: 12px 18%;
+    background-color: rgb(1, 1, 50);
+    text-align: center;
+}
+.cou_h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+}
+.cou_p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    color: whitesmoke;
+}
+.course1{
+    width: 250px;
+    height:355px;
+    background-color: white;
+    text-align: start;
+    float: left;
+    margin-right:20px;
+}
+.course1_1{
+    padding:20px;
+    color: rgb(10, 10, 73);
+}
+.web_cou{
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    color: darkblue;
+    border-radius:10%;
+}
+.web_pic{
+    width: 250px;
+    height: 177.5px;
+}
+/* we have different course, the one above is different from the one below*/
+.course2{
+    width: 250px;
+    height:355px;
+    background-color: white;
+    text-align: start;
+    float: left;
+    margin-right:20px;
+}
+.course1_2{
+    padding:20px;
+    color: rgb(10, 10, 73);
+}
+.web_cou{
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    color: darkblue;
+    border-radius:10%;
+}
+.web_pic{
+    width: 250px;
+    height: 177.5px;
+}
+/* we have different course, the one above is different from the one below*/
+.course3{
+    width: 250px;
+    height:355px;
+    background-color: white;
+    text-align: start;
+    float: left;
+}
+.course1_3{
+    padding:20px;
+    color: rgb(10, 10, 73);
+}
+.web_cou{
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    color: darkblue;
+    border-radius:10%;
+}
+.web_pic{
+    width: 250px;
+    height: 177.5px;
+}
+.web_cou_h{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(10, 10, 73);
+}
+.web_cou_p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    color: rgb(10, 10, 73);
+}
+.rline3{
+    height:500px;
+    padding: 12px 18%;
+    text-align:center;
+}
+.rline3_but{
+    margin-right: 15px;
+    padding: 0px;
+    width: 180px;
+    height: 265px;
+    background-color: white;
+    border: 1px solid yellow;
+    border-radius: 0% 0% 5% 5%;
+}
+.rline3_pic{
+    margin-top:0px;
+    width:180px;
+    height:200px;
+}.rline3 h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(10, 10, 73);
+    margin: 0px;
+}
+.rline3 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    color: rgb(10, 10, 73);
+    margin-top: 10px;
+}
+.vide{
+    width: 1000px;
+    height:200px;
+}
+.almost{
+    padding: 10px;
+    height:300px; 
+    padding:12% 18%;
+    text-align: center;
+}
+.al_h2, h3{   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue
+}
+.al_p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+    color: grey;
+}
+.csc_student1{
+    padding: 10px 30px;
+    height:170px;
+    width: 250px;
+    border:0px;
+    box-shadow:6px 6px 6px gainsboro;
+    background-color: white;
+    margin-right:20px;
+    float: left;
+    text-align: initial;
+}
+.csc_student2{
+    padding: 10px 30px;
+    height:170px;
+    width: 250px;
+    border:0px;
+    box-shadow:6px 6px 6px gainsboro;
+    background-color: white;
+    margin-right:20px;
+    float: left;
+    text-align: initial;
+}.csc_student3{
+    padding: 10px 20px;
+    height:170px;
+    width: 250px;
+    border:0px;
+    box-shadow:6px 6px 6px gainsboro;
+    background-color: white;
+    margin-right:20px;
+    float: left;
+    text-align: initial;
+}
+.csc_pic{
+    height:40px;
+    width: 40px;
+    border-radius: 50%;
+    border-width:2px;
+    border-style:solid;
+    border-color:blue;
+    float: left;
+    margin:3px;
+}
+.al_h3{
+    margin:8px 0px 0px 8px;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue
+}
+.al_p1{
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+    color: grey;
+}
+.h_last{
+    height: 150px;
+    margin: 0px 20% 0px 20%;
+    padding: 20px 20px;
+    background-color: rgb(255, 255, 0);
+}
+.h_last1{
+    margin-top: 15px;
+    float: left;
+}
+.email{
+    height: 25px;
+    float: right;
+    margin-top:15px;
+    border-radius: 50px;
+    float: left;;
+}
+.last{
+    margin-top: -75px;
+    height:150px;
+    padding-top: 40px;
+    text-align: center;
+    color:white;
+    background-color: green;
+}
